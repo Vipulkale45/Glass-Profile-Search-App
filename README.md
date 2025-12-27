@@ -1,5 +1,5 @@
 # Glass-Profile-Search-App
-# Blur Profile Card Search UI
+
 
 A modern profile card project with blur glass effect, real-time search, popup profile view, smooth animations and responsive layout. Built using HTML, CSS and JavaScript.
 
