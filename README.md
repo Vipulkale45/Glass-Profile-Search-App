@@ -46,11 +46,6 @@ script.js
 
 ---
 
-## 📸 Screenshot
-(Add your screenshot here after uploading)
-
----
-
 ## 🙌 Author
 Made with ❤️ by Vipul
 
